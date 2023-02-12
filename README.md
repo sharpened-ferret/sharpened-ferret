@@ -24,7 +24,7 @@ Pronouns: they/them
 
 <picture>
     <source
-        srcset="https://github-readme-stats.vercel.app/api?username=sharpened-ferret&count_private=true&theme=radical&show_icons=true& include_all_commits=true"
+        srcset="https://github-readme-stats.vercel.app/api?username=sharpened-ferret&count_private=true&theme=radical&show_icons=true&include_all_commits=true"
         media="(prefers-color-scheme: dark)"
     />
     <source
