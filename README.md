@@ -24,12 +24,12 @@ Pronouns: they/them
 
 <picture>
     <source
-        srcset="https://github-readme-stats.vercel.app/api?username=sharpened-ferret&count_private=true&theme=radical&show_icons=true"
+        srcset="https://github-readme-stats.vercel.app/api?username=sharpened-ferret&count_private=true&theme=radical&show_icons=true&hide_title=true"
         media="(prefers-color-scheme: dark)"
     />
     <source
-        srcset="https://github-readme-stats.vercel.app/api?username=sharpened-ferret&count_private=true&show_icons=true"
+        srcset="https://github-readme-stats.vercel.app/api?username=sharpened-ferret&count_private=true&show_icons=true&hide_title=true"
         media="(prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=sharpened-ferret&count_private=true&show_icons=true" alt="An chart showing Neil Woodhouse's repo contributions">
+    <img src="https://github-readme-stats.vercel.app/api?username=sharpened-ferret&count_private=true&show_icons=true&hide_title=true" alt="An chart showing Neil Woodhouse's repo contributions">
 </picture>
