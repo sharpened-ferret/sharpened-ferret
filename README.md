@@ -12,24 +12,24 @@ Pronouns: they/them
 
 <picture>
     <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sharpened-ferret&hide=TeX&layout=compact&theme=radical&langs_count=8"
+        srcset="https://github-readme-stats-sharpened-ferret.vercel.app/api/top-langs/?username=sharpened-ferret&hide=TeX&layout=compact&theme=radical&langs_count=8"
         media="(prefers-color-scheme: dark)"
     />
     <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sharpened-ferret&hide=TeX&layout=compact&langs_count=8"
+        srcset="https://github-readme-stats-sharpened-ferret.vercel.app/api/top-langs/?username=sharpened-ferret&hide=TeX&layout=compact&langs_count=8"
         media="(prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharpened-ferret&hide=TeX&layout=compact&langs_count=8" alt="An image showing Neil Woodhouse's most used languages">
+    <img src="https://github-readme-stats-sharpened-ferret.vercel.app/api/top-langs/?username=sharpened-ferret&hide=TeX&layout=compact&langs_count=8" alt="An image showing Neil Woodhouse's most used languages">
 </picture>
 
 <picture>
     <source
-        srcset="https://github-readme-stats.vercel.app/api?username=sharpened-ferret&count_private=true&theme=radical&show_icons=true&include_all_commits=true&hide_title=true&line_height=29"
+        srcset="https://github-readme-stats-sharpened-ferret.vercel.app/api?username=sharpened-ferret&count_private=true&theme=radical&show_icons=true&include_all_commits=true&hide_title=true&line_height=29"
         media="(prefers-color-scheme: dark)"
     />
     <source
-        srcset="https://github-readme-stats.vercel.app/api?username=sharpened-ferret&count_private=true&show_icons=true&include_all_commits=true&hide_title=true&line_height=29"
+        srcset="https://github-readme-stats-sharpened-ferret.vercel.app/api?username=sharpened-ferret&count_private=true&show_icons=true&include_all_commits=true&hide_title=true&line_height=29"
         media="(prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=sharpened-ferret&count_private=true&show_icons=true&include_all_commits=true&hide_title=true&line_height=29" alt="An chart showing Neil Woodhouse's repo contributions">
+    <img src="https://github-readme-stats-sharpened-ferret.vercel.app/api?username=sharpened-ferret&count_private=true&show_icons=true&include_all_commits=true&hide_title=true&line_height=29" alt="An chart showing Neil Woodhouse's repo contributions">
 </picture>
