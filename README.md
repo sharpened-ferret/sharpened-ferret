@@ -31,5 +31,5 @@ Pronouns: they/them
         srcset="https://github-readme-stats-rongronggg9.vercel.app/api?username=sharpened-ferret&count_private=true&show_icons=true&include_all_commits=true&hide_title=true&line_height=29"
         media="(prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats-rongronggg9.vercel.app/api?username=sharpened-ferret&count_private=true&show_icons=true&include_all_commits=true&hide_title=true&line_height=29" alt="An chart showing Neil Woodhouse's repo contributions">
+    <img src="https://github-readme-stats-rongronggg9.vercel.app/api?username=sharpened-ferret&count_private=true&theme=radical&show_icons=true&include_all_commits=true&hide_title=true&line_height=29" alt="An chart showing Neil Woodhouse's repo contributions">
 </picture>
