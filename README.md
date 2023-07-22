@@ -6,7 +6,7 @@ Pronouns: they/them
 
 ## Current Projects: 
 - [RecipeViewer v2](https://github.com/sharpened-ferret/RecipeViewer) - an update to my python webapp for managing my personal recipe book
-- ExifGUI - a flutter-based graphical front-end for [ExifTool](https://exiftool.org/), as part of my 4th year dissertation. 
+- [ExifGUI](https://github.com/sharpened-ferret/ExifGUI) - a flutter-based graphical front-end for [ExifTool](https://exiftool.org/), as part of my 4th year dissertation. 
 - Learning Docker and reverse proxies - for running various cool federated services on my Debian home server. 
 - Some misc. game dev projects with friends.
 
