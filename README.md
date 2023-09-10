@@ -1,14 +1,13 @@
 # Hello world!
 
-Hi, I'm a final year Computer Science MSci student at Swansea university. I'm currently finishing up my degree, working on some hobby projects, and looking for work.
+Hi, I'm a recent Computer Science MSci. graduate. I'm currently working on some hobby projects, and looking for a job.
 
 Pronouns: they/them
 
 ## Current Projects: 
-- [RecipeViewer v2](https://github.com/sharpened-ferret/RecipeViewer) - an update to my python webapp for managing my personal recipe book
-- [ExifGUI](https://github.com/sharpened-ferret/ExifGUI) - a flutter-based graphical front-end for [ExifTool](https://exiftool.org/), as part of my 4th year dissertation. 
-- Learning Docker and reverse proxies - for running various cool federated services on my Debian home server. 
-- Some misc. game dev projects with friends.
+- [RecipeViewer v2](https://github.com/sharpened-ferret/RecipeViewer) - an update to my Python web app for managing my personal recipe book
+- [Personal Website](https://github.com/sharpened-ferret/neilwoodhouseuk) - redesigning my site to work better with my recent migration to the Rocket Rust web framework.
+- Learning Docker and reverse proxies - for running various cool federated services on my Debian home server.
 
 <picture>
     <source
