@@ -5,9 +5,10 @@ Hi, I'm a recent Computer Science MSci. graduate. I'm currently working on some 
 Pronouns: they/them
 
 ## Current Projects: 
+- Early development on a desktop music client using [Tauri](https://tauri.app/)
 - [RecipeViewer v2](https://github.com/sharpened-ferret/RecipeViewer) - an update to my Python web app for managing my personal recipe book
 - [Personal Website](https://github.com/sharpened-ferret/neilwoodhouseuk) - redesigning my site to work better with my recent migration to the Rocket Rust web framework.
-- Learning Docker and reverse proxies - for running various cool federated services on my Debian home server.
+- Learning Rust.
 
 <picture>
     <source
