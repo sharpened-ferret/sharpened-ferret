@@ -2,7 +2,7 @@
 
 Hi, I'm a recent Computer Science MSci. graduate. I'm currently working on some hobby projects, and looking for a job.
 
-Pronouns: they/them
+Pronouns: she/they
 
 ## Current Projects: 
 - Early development on a desktop music client using [Tauri](https://tauri.app/)
