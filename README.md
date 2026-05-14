@@ -5,7 +5,7 @@ Hi, I'm a recent Computer Science MSci. graduate. I'm currently working on some 
 Pronouns: she/they
 
 ## Current Projects: 
-- Early development on a desktop music client using [Tauri](https://tauri.app/)
+- Experimenting with a low-power Lidar device
 - [RecipeViewer v2](https://github.com/sharpened-ferret/RecipeViewer) - an update to my Python web app for managing my personal recipe book
 - [Personal Website](https://github.com/sharpened-ferret/neilwoodhouseuk) - redesigning my site to work better with my recent migration to the Rocket Rust web framework.
 - Learning Rust.
